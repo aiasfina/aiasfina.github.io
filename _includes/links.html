@@ -1,5 +1,7 @@
-<div class="block">
-  {% for link in site.links %}
-    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a>
-  {% endfor %}
-</div>
+<ul class="top-nav">
+    {% for link in site.links %}
+    <li>
+        <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a>
+    </li>
+    {% endfor %}
+</ul>
