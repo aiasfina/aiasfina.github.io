@@ -10,13 +10,10 @@ links:
   - name:         About
     url:          /about
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:aiasfina@gmail.com
     external:     true
   - name:         GitHub
     url:          https://github.com/aiasfina
-    external:     true
-  - name:         OSChina
-    url:          http://muan.co
     external:     true
 highlighter:      pygments
 permalink:        pretty
