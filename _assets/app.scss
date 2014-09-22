@@ -56,14 +56,25 @@
   }
   .right {
     margin-left: 404px;
-
   }
 }
 
 section.post {
+  h2, h3 {
+    font-weight: bolder;
+    padding: 0;
+    margin: 25px 0 25px 60px;
+    border-bottom: solid 1px #dedede;
+  }
+  h4 {
+    font-weight: bold;
+  }
   code {
     background: #e6e6e6;
     color: #000;
+  }
+  ul, ol {
+    margin-left: 60px;
   }
   .highlight {
     padding: 0;
