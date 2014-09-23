@@ -99,6 +99,10 @@ section.post {
   }
 }
 
+#main-content {
+  min-height: 300px;
+}
+
 @media (max-width: 480px) {
   body {
     padding: 0;

@@ -1,6 +1,6 @@
 title:            Catlog
 description:      A jekyll theme. Because I scribble.
-url:              # Site url.
+url:              http://catlog.info
 signoff:          # Your name.
 disqus_shortname: catlog
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
