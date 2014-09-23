@@ -7,7 +7,7 @@ html, body {
 body {
   background: #f9f9f9;
   color: #303030;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'WenQuanYi Micro Hei', 'Microsoft YaHei', sans-serif;
   font-weight: 400;
   font-size: 13px;
   line-height: 19px;
@@ -94,7 +94,6 @@ footer {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
-  max-width: 600px;
   margin: 40px auto 20px;
   border-radius: 7px;
   position: relative; }

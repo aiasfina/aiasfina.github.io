@@ -9,7 +9,7 @@ body {
   &, * { -webkit-font-smoothing: antialiased; }
   background: $background;
   color: #303030;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'WenQuanYi Micro Hei', 'Microsoft YaHei', sans-serif;
   font-weight: 400;
   font-size: 13px;
   line-height: 19px;
@@ -49,15 +49,12 @@ footer {
   * { color: #797979; }
 }
 
-#container {
+.container {
   @include clearfix;
   @include box-sizing(border-box);
   width: 100%;
-  max-width: 600px;
-  background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
-  border: 1px solid #eee;
   position: relative;
   .block {
     &:first-child, & + .block { border-top: 0; }
