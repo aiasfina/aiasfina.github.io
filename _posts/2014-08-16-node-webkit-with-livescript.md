@@ -2,6 +2,7 @@
 layout: post
 title: '使用 LiveScript 开发 node-webkit'
 date: 2014-08-16
+disqus: y
 ---
 
 > node-webkit 是一个基于 Chromium 和 NodeJS 的运行环境，你可以在上面使用 Web 的技术开发跨平台的桌面应用程序。

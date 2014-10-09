@@ -2,6 +2,7 @@
 layout: post
 title: '[传教向]LiveScript，不仅仅是 JavaScript'
 date: 2014-08-19
+disqus: y
 ---
 
 > 最近在充实一下贫瘠的博客好在面试时加点分，刚好撸完这篇顺道传教来了...

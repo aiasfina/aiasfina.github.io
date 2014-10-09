@@ -2,6 +2,7 @@
 layout: post
 title: '类似 Material Desgin 点击涟漪效果的 JS 插件 - Waves'
 date: 2014-09-15
+disqus: y
 ---
 
 Waves 是一个实现 Material Design 点击涟漪动画的 JS 插件，原生 JavaScript 实现不依赖 jQuery。

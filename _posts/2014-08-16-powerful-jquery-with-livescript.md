@@ -2,6 +2,7 @@
 layout: post
 title: '[译]jQuery 与 LiveScript'
 date: 2014-08-16
+disqus: y
 ---
 
 jQuery 是一个非常强大的类库，并且已经深入到日常网站开发当中。

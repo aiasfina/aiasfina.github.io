@@ -2,6 +2,7 @@
 layout: post
 title: '一个简单的新权限角色插件-Royce'
 date: 2014-09-23
+disqus: y
 ---
 
 Royce 是一个最近新出来的角色插件，它为角色控制提供了一些便利的方法。

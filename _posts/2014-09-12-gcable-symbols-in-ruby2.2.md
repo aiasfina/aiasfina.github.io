@@ -2,6 +2,7 @@
 layout: post
 title: 'Ruby 2.2 的 可回收 symbol'
 date: 2014-09-12
+disqus: y
 ---
 
 > Q: 请描述一下 Symbol 可能引起的内存泄露？

@@ -2,6 +2,7 @@
 layout: post
 title: 'comfortable-mexican-sofa 入门'
 date: 2014-08-22
+disqus: y
 ---
 
 ### 简单介绍

@@ -2,6 +2,7 @@
 layout: post
 title: 'LowDB，用数据库的方式操作 JSON'
 date: 2014-08-27
+disqus: y
 ---
 
 **LowDB** 是一个基于 Lo-Dash 和 underscore.db 的 NodeJS 插件，他给 Object 和 JSON 文件包装了一系列模仿数据库操作的方法

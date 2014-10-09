@@ -2,6 +2,7 @@
 layout: post
 title: 'PhotoShop 导入图片序列制作 GIF 动画'
 date: 2014-09-11
+disqus: y
 ---
 
 1. 从 AE 中导出图片序列
